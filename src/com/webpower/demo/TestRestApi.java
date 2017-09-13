@@ -15,7 +15,7 @@ import com.webpower.util.WpSoapConfig;
 public class TestRestApi {
 	
 	public TestRestApi() {
-		WpSoapConfig.init("c1d6303c9de737bc65f9", "28dc284defbe72d739765b6ed888cbf1f9a35a58");
+		WpSoapConfig.init("", "");
 	}
 	
 	public static void main(String[] args) {
